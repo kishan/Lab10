@@ -14,7 +14,7 @@ output:
 
 #  Problem 1 {.tabset}
 
-+  Kishan:
++  Kishan: Junior from Boston, MA majoring in Statistics and minoring in Computer Science and HCI. 
 +  Max: 
 +  Nathan: A junior who is going to be working in New York City at SocGen this summer. 
 +  Tyler: A senior Econ/Stats major who has his own Philadelphia 76ers sports analytics podcast. 
